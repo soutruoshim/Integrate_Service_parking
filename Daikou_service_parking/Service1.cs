@@ -169,7 +169,6 @@ namespace Daikou_service_parking
         // post outRecord to server
         private async void postOutRecord(OutReport outRecord)
         {
-            //test
             try 
             {
                 var client = new RestClient("http://apartment.local/api/parking_register_outrecord.php");
