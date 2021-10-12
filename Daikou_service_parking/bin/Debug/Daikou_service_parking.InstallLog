@@ -1,0 +1,64 @@
+﻿Installing assembly 'C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.InstallLog
+   assemblypath = C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.InstallLog
+   assemblypath = C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.exe
+Uninstalling assembly 'C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.InstallLog
+   assemblypath = C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.InstallLog
+   assemblypath = C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.InstallLog
+   assemblypath = C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.exe
+Uninstalling assembly 'C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.InstallLog
+   assemblypath = C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.InstallLog
+   assemblypath = C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.InstallLog
+   assemblypath = C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.exe
+Uninstalling assembly 'C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.InstallLog
+   assemblypath = C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.

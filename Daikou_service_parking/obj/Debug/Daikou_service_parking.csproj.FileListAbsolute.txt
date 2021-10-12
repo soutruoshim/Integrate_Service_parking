@@ -1,0 +1,40 @@
+C:\Users\User\Documents\Visual Studio 2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.exe.config
+C:\Users\User\Documents\Visual Studio 2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.exe
+C:\Users\User\Documents\Visual Studio 2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.pdb
+C:\Users\User\Documents\Visual Studio 2019\Daikou_service_parking\Daikou_service_parking\obj\Debug\Daikou_service_parking.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2019\Daikou_service_parking\Daikou_service_parking\obj\Debug\Daikou_service_parking.ProjectInstaller.resources
+C:\Users\User\Documents\Visual Studio 2019\Daikou_service_parking\Daikou_service_parking\obj\Debug\Daikou_service_parking.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2019\Daikou_service_parking\Daikou_service_parking\obj\Debug\Daikou_service_parking.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2019\Daikou_service_parking\Daikou_service_parking\obj\Debug\Daikou_service_parking.exe
+C:\Users\User\Documents\Visual Studio 2019\Daikou_service_parking\Daikou_service_parking\obj\Debug\Daikou_service_parking.pdb
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.exe.config
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.exe
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Daikou_service_parking.pdb
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\RestSharp.dll
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\System.Buffers.dll
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\System.Memory.dll
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\System.Text.Json.dll
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\RestSharp.xml
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\System.Buffers.xml
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\System.Memory.xml
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\System.Text.Json.xml
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\obj\Debug\Daikou_service_parking.ProjectInstaller.resources
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\obj\Debug\Daikou_service_parking.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\obj\Debug\Daikou_service_parking.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\obj\Debug\Daikou_service_parking.csproj.CopyComplete
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\obj\Debug\Daikou_service_parking.exe
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\obj\Debug\Daikou_service_parking.pdb

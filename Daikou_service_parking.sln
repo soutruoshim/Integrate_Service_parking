@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daikou_service_parking", "Daikou_service_parking\Daikou_service_parking.csproj", "{943FFA97-4613-4E0B-BD2A-37D799D11258}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Daikou_Service", "Daikou_Service\Daikou_Service.vdproj", "{32E32781-A13C-48F4-8651-CF59E2A25300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{943FFA97-4613-4E0B-BD2A-37D799D11258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{943FFA97-4613-4E0B-BD2A-37D799D11258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{943FFA97-4613-4E0B-BD2A-37D799D11258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{943FFA97-4613-4E0B-BD2A-37D799D11258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32E32781-A13C-48F4-8651-CF59E2A25300}.Debug|Any CPU.ActiveCfg = Debug
+		{32E32781-A13C-48F4-8651-CF59E2A25300}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04993855-B0BF-4A0E-85F1-7200853267EA}
+	EndGlobalSection
+EndGlobal
