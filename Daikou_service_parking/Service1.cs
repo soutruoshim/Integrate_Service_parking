@@ -61,7 +61,7 @@ namespace Daikou_service_parking
         protected override void OnStop()
         {
             //WriteToFile("Service is stopped at " + DateTime.Now);
-            cards = cardRepo.GetAll();
+            //cards = cardRepo.GetAll();
             readCardsApi();
 
             // for outRecord
@@ -70,7 +70,7 @@ namespace Daikou_service_parking
         private void OnElapsedTime(object source, ElapsedEventArgs e)
         {
             //WriteToFile("Service is recall at " + DateTime.Now);
-            cards = cardRepo.GetAll();
+            //cards = cardRepo.GetAll();
             readCardsApi();
 
             // for outRecord
@@ -164,6 +164,7 @@ namespace Daikou_service_parking
             {
                 Console.WriteLine("Record: " + outrepo.RecordNo);
                 postOutRecord(outrepo);
+
             }
         }
         // post outRecord to server
@@ -171,7 +172,8 @@ namespace Daikou_service_parking
         {
             try 
             {
-                var client = new RestClient("http://apartment.local/api/parking_register_outrecord.php");
+                //var client = new RestClient("http://apartment.local/api/parking_register_outrecord.php");
+                var client = new RestClient("https://eazy.daikou.asia/api/parking_register_outrecord.php");
                 var request = new RestRequest("", Method.POST);
                 //var request = new RestRequest("create", Method.POST);
 
@@ -213,7 +215,7 @@ namespace Daikou_service_parking
                     out_operator_name = outRecord.OutOperatorName,
                     out_style = outRecord.OutStyle,
                     car_free = outRecord.CarFee,
-                    pay_amount = outRecord.CardAmount,
+                    pay_amount = outRecord.PayAmount,
                     card_pay_amount = outRecord.CardPayAmount,
                     pay_date_time = payDateTime.ToString("yyyy-MM-dd HH:mm:ss"),
                     park_time = outRecord.ParkTime,
@@ -279,13 +281,16 @@ namespace Daikou_service_parking
                     {
                         OutRecordRepo outRecordRepo = new OutRecordRepo();
                         outRecordRepo.updateSign(outRecord.RecordNo);
+                        WriteToFile("Service is error push at " + outRecord.RecordNo);
                     }
                 }
+
                 Console.WriteLine(respone);
             }
             catch (Exception e)
             {
                 Console.WriteLine(e);
+                WriteToFile("Service is error push at " + e.Message.ToString());
             }
 
         }

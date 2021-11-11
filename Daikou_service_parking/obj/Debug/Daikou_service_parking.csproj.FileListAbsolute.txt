@@ -35,6 +35,6 @@ C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service
 C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\obj\Debug\Daikou_service_parking.ProjectInstaller.resources
 C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\obj\Debug\Daikou_service_parking.csproj.GenerateResource.cache
 C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\obj\Debug\Daikou_service_parking.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\obj\Debug\Daikou_service_parking.csproj.CopyComplete
 C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\obj\Debug\Daikou_service_parking.exe
 C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\obj\Debug\Daikou_service_parking.pdb
+C:\Users\User\Documents\Visual_Studio_2019\Daikou_service_parking\Daikou_service_parking\obj\Debug\Daikou_service_parking.csproj.CopyComplete

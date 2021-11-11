@@ -92,7 +92,7 @@ namespace Daikou_service_parking.repo
                 connection.Open();
                 var command = factory.CreateCommand();
                 command.Connection = connection;
-                command.CommandText = "Select Top 20 * From OutRecord WHERE sign IS NULL;";
+                command.CommandText = "Select Top 20 * From OutRecord WHERE sign IS NULL AND OutDateTime IS NOT NULL AND InDateTime IS NOT NULL;";
                 using (DbDataReader reader = command.ExecuteReader())
                 {
                     while (reader.Read())
